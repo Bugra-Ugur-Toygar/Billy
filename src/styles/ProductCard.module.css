@@ -1,0 +1,36 @@
+.productCard {
+  border: 1px solid #ddd;
+  padding: 16px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.productImage {
+  font-size: 2rem;
+}
+
+.productName {
+  font-weight: bold;
+}
+
+.productPrice {
+  color: green;
+}
+
+.button {
+  padding: 8px 12px;
+  margin: 5px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.buyButton {
+  background-color: green;
+  color: white;
+}
+
+.sellButton {
+  background-color: red;
+  color: white;
+}
